@@ -3,13 +3,10 @@
 This project solves a 2D maze with the help of DFS algorithm. It takes an input file containing the maze in ASCII format, convert it to Adjacency List and solve the maze. 
 It also implements its own Graph data structure to help with the maze represantation
 
-## Installation 
+## Install prerequisites
 
 The package does not have any dependencies besides Python itself.
 
-```bash
-pip install requirements.txt
-```
 
 ## Usage
 
